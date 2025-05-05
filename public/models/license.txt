@@ -1,0 +1,11 @@
+Model Information:
+* title:	Masjid al-Haram (kaaba)
+* source:	https://sketchfab.com/3d-models/masjid-al-haram-kaaba-578a772545214cc383167d9223866558
+* author:	Mostafa Ebrahim (https://sketchfab.com/mostafaebrahiem1998)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Masjid al-Haram (kaaba)" (https://sketchfab.com/3d-models/masjid-al-haram-kaaba-578a772545214cc383167d9223866558) by Mostafa Ebrahim (https://sketchfab.com/mostafaebrahiem1998) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
