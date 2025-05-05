@@ -33,7 +33,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="text-emerald-200 hover:text-white transition-colors">
+                <Link href="/" className="text-emerald-200 hover:text-white transition-colors">
                   Haqida
                 </Link>
               </li>
@@ -49,22 +49,22 @@ export default function Footer() {
             <h4 className="text-amber-400 font-medium">Manbalar</h4>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/blog" className="text-emerald-200 hover:text-white transition-colors">
+                <Link href="/" className="text-emerald-200 hover:text-white transition-colors">
                   Blog
                 </Link>
               </li>
               <li>
-                <Link href="/faq" className="text-emerald-200 hover:text-white transition-colors">
+                <Link href="/" className="text-emerald-200 hover:text-white transition-colors">
                   Ko`p So`raladigan Savollar
                 </Link>
               </li>
               <li>
-                <Link href="/privacy" className="text-emerald-200 hover:text-white transition-colors">
+                <Link href="/" className="text-emerald-200 hover:text-white transition-colors">
                   Maxfiylik Siyosati
                 </Link>
               </li>
               <li>
-                <Link href="/terms" className="text-emerald-200 hover:text-white transition-colors">
+                <Link href="/" className="text-emerald-200 hover:text-white transition-colors">
                   Foydalanish Shartlari
                 </Link>
               </li>
